@@ -1,2 +1,2 @@
-# project_metis
-portfolio to showcase projects 
+# NYC Restaurant Citation Yelp App 
+
